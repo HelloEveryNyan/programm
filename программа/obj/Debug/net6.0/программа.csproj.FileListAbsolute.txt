@@ -1,0 +1,15 @@
+C:\Users\ghost\Desktop\программа\bin\Debug\net6.0\программа.exe
+C:\Users\ghost\Desktop\программа\bin\Debug\net6.0\программа.deps.json
+C:\Users\ghost\Desktop\программа\bin\Debug\net6.0\программа.runtimeconfig.json
+C:\Users\ghost\Desktop\программа\bin\Debug\net6.0\программа.dll
+C:\Users\ghost\Desktop\программа\bin\Debug\net6.0\программа.pdb
+C:\Users\ghost\Desktop\программа\obj\Debug\net6.0\программа.csproj.AssemblyReference.cache
+C:\Users\ghost\Desktop\программа\obj\Debug\net6.0\программа.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghost\Desktop\программа\obj\Debug\net6.0\программа.AssemblyInfoInputs.cache
+C:\Users\ghost\Desktop\программа\obj\Debug\net6.0\программа.AssemblyInfo.cs
+C:\Users\ghost\Desktop\программа\obj\Debug\net6.0\программа.csproj.CoreCompileInputs.cache
+C:\Users\ghost\Desktop\программа\obj\Debug\net6.0\программа.dll
+C:\Users\ghost\Desktop\программа\obj\Debug\net6.0\refint\программа.dll
+C:\Users\ghost\Desktop\программа\obj\Debug\net6.0\программа.pdb
+C:\Users\ghost\Desktop\программа\obj\Debug\net6.0\программа.genruntimeconfig.cache
+C:\Users\ghost\Desktop\программа\obj\Debug\net6.0\ref\программа.dll
